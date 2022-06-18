@@ -9,7 +9,7 @@ for (int i = 0; i <=n; i++)
 {
     sum =sum+i;
 }
-cout<<sum<<endl;
+// cout<<sum<<endl;
 
     return 0;
 }
