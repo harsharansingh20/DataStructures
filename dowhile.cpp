@@ -7,7 +7,7 @@ cin>>a;
 
 do
 {
-    cout<<a<<endl;
+    // cout<<a<<endl;
     cin>>a;
 } while (a>0);
 
